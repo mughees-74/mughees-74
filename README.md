@@ -30,3 +30,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mughees-74&show_icons=true&theme=radical&hide_border=false" />
 </p>
+
+---
+
+## 🔥 GitHub Streak:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-74&theme=radical&hide_border=false" />
+</p>
