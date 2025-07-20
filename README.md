@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <h1>Hi 👋, I'm Qazi Mughees ud din</h1>
+</p>
 
-<!--
-**mughees-74/mughees-74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  A passionate MERN developer from Pakistan 🇵🇰
+</p>
 
-Here are some ideas to get you started:
+<p>
+  🔭 I’m currently working with ReactJS / NodeJS / NextJS <br>
+  🌱 I’m currently learning Next.js / Mongodb<br>
+  💬 Ask me about HTML, CSS, JavaScript, ReactJS, NodeJS <br>
+📫 How to reach me: <a href="mailto:qazimughees74@gmail.com">qazimughees74@gmail.com</a> <br>
+  😄 Fun fact: I enjoy learning new frameworks
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages and Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,cpp,tailwind,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mughees-74&show_icons=true&theme=radical&hide_border=false" />
+</p>
